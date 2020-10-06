@@ -1,4 +1,4 @@
-#sum of n numbers in python 3
+#sum of n numbers
 
 #user input
 n = int(input("Enter the number of your choice :"))
