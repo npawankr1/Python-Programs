@@ -1,6 +1,7 @@
-# https://www.facebook.com/jasmeet.singh.77920/posts/3180807528714187
-# Subscribed by Code House
-
+# https://www.facebook.com/permalink.php?story_fbid=2675366319446169&id=100009184817938
+# Subscibed by Devesh Sharma 
+# Function for nth Fibonacci number
+ 
 def Fibonacci(n):
     if n<=0:
         print("Incorrect input")
@@ -13,4 +14,8 @@ def Fibonacci(n):
     else:
         return Fibonacci(n-1)+Fibonacci(n-2)
  
+# Driver Program
+ 
 print(Fibonacci(9))
+ 
+#This code is contributed by Devesh Sharma 

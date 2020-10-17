@@ -1,0 +1,6 @@
+# https://www.facebook.com/harhar.modi.1232/posts/706155836649246
+# Subscribed by Jayant Gupta
+# Python program to find the ASCII value of the given character
+
+c = 'A'
+print("The ASCII value of '" + c + "' is", ord(c))

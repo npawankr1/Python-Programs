@@ -1,4 +1,3 @@
-#Subscribbed by Code House
 n=int(input("Enter number:"))
 temp=n
 rev=0

@@ -1,0 +1,13 @@
+#https://www.facebook.com/kaku.singh.737448/posts/2798848053770688
+#subscribe by Code House
+year = 2000
+if (year % 4) == 0:
+   if (year % 100) == 0:
+       if (year % 400) == 0:
+           print("{0} is a leap year".format(year))
+       else:
+           print("{0} is not a leap year".format(year))
+   else:
+       print("{0} is a leap year".format(year))
+else:
+   print("{0} is not a leap year".format(year))
